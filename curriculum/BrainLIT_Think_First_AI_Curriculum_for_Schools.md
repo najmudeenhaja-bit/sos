@@ -32,6 +32,28 @@ Competitors already do AI projects, gamification and AI ethics well. What none o
 | Codevidhya | School partnerships and teacher training | A coding syllabus, not problem-solving | Projects start from a problem the child can see, not from a tool or a syntax |
 | Rewire Kids (Chennai) | Ships a website, an app and an image portfolio in 9 weekends | Grades 6–12 only; adult tools (Claude, Lovable, Bolt) need accounts children under 13 can't hold; tool-first | Ages 8–12; no-login or school-managed tools; problem-first, tool-second |
 
+### Chitti, the closest competitor for this school offer
+
+Chitti is a Chennai company founded by Premanand Sethurajan of LMES, whose Tamil YouTube channel has about 1.6 million subscribers. It sells to both parents and schools in Tamil Nadu, so the schools we pitch may already know it.
+
+| | Chitti (from its public pages) | BrainLIT school curriculum |
+| --- | --- | --- |
+| Offer | **Future School:** a year-long, live online after-school STEM course for Grades 2–8, led by a mentor (1:1 or small group), with kits shipped home, about 100 hours, and Levels 1 to 3 with a graduation diploma. **Chitti Powered:** STEM labs, curriculum and certified teacher training for schools. | Think-First AI curriculum inside the school timetable, Grades 3–7, one tier per year |
+| Modules | Aeromodelling, electronics, game development, toy engineering, rocket science, simple machines and junior robotics; later app development, Python, embedded systems and satellites | AI only: how AI learns, how to check it, how to use it on purpose, and how to build with it |
+| How children learn | Build, test, fail and try again with physical kits | Think without AI, build with AI, then explain without notes |
+| What the child makes | Kit models and coding projects | A solution to a real local problem, handed to a real person |
+| What the school needs | A STEM lab and kits | A projector for Tier 1, group devices for Tier 2, and a lab for Tier 3 |
+| Tamil reach | Strong: the LMES audience and Tamil video lessons | Tanglish teacher scripts; no audience yet |
+
+**Inference from the module lists:** for Chitti, AI is one track among many STEM tracks. Questioning and checking AI output is not a visible focus. **Our pitch line:** “Chitti builds young makers; BrainLIT builds AI thinkers.” A school with a Chitti lab can run BrainLIT alongside it.
+
+**What we borrow from Chitti:**
+
+- **Hands-on builds keep children hooked.** At least 3 projects per tier include a physical build from cardboard, paper or scrap, costing under Rs 50 per group, so no paid kits are needed.
+- **Failure as information.** Every Think Book has a Fail Log: what didn't work, why, and what I changed.
+- **Teacher certification as a product.** Teachers who complete training and teach a full tier become “BrainLIT Certified Think-First Teachers.”
+- **Tamil-first trust.** Each project has a 2-minute Tamil explainer video that parents receive on WhatsApp.
+
 ### What our after-school cohort taught us (BrainLIT Cohort 1, May 2026)
 
 - **Printed outputs travel home.** The Lie Detector Report went on fridges, and the storybook got the strongest parent reaction. Every school project here ends in something you can hold, print or demo.
@@ -115,7 +137,7 @@ By the end of Tier 2, children in groups can train and test their own models, me
 
 | # | Project | Real problem (who it helps) | AI idea | How AI is used | Tangible output | Muscles |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Smart Sorting Bin | The canteen's waste goes to landfill unsorted | Training vs testing data; accuracy | Groups train an image model on canteen waste, then test it on 20 new items and log right and wrong | Working classifier + accuracy chart + bin labels fixed in the canteen | Q, S |
+| 1 | Smart Sorting Bin | The canteen's waste goes to landfill unsorted | Training vs testing data; accuracy | Groups train an image model on canteen waste, then test it on 20 new items and log right and wrong | Cardboard smart bin with the working classifier on a tablet, an accuracy chart, and bin labels fixed in the canteen | Q, S |
 | 2 | Cooker Whistle Counter | Amma or Paati loses count of pressure-cooker whistles | Sound recognition | Groups record whistles vs kitchen noise, train an audio model, and build a Scratch counter that announces “3 whistle aachu!” | Working whistle counter + a demo video sent home | E, C |
 | 3 | Water Watch | School taps leak while the city faces summer shortages | Data shows patterns; AI can summarise but needs checking | Measure each tap's leak with a cup and a stopwatch; teacher asks AI to suggest fixes; children check each suggestion | Water Audit Report + an infographic presented to the principal | C, S |
 | 4 | Study Buddy | Juniors struggle with a hard lesson (for example, the water cycle) | The RACE prompt method | Groups write RACE prompts; teacher runs them; children fact-check every line against the textbook | Revision card set + a 10-question quiz, given to a Grade 3 class | Q |
@@ -179,7 +201,7 @@ This answers the parent complaint that “tutors aren't trained to handle kids a
 
 - 2-day hands-on training per tier, where teachers build 3 of the projects themselves.
 - A period-by-period facilitator guide with timings, Tanglish scripts, sample answers, and a “what if it goes wrong” box, in the same style as our Cohort 1 guide.
-- Ready-to-print Think Books, templates and certificates.
+- Ready-to-print Think Books (with a Fail Log), templates and certificates. Teachers who complete a full tier become BrainLIT Certified Think-First Teachers.
 - A monthly BrainLIT mentor visit or call, plus a teachers' WhatsApp support group.
 - Partner schools receive a printable term schedule and a parent letter for each project.
 
@@ -206,11 +228,11 @@ This directly fills the proof gap in our positioning work: we have student work 
 
 ## Open questions before we pitch
 
-- [ ] **“Chitti” after-school class analysis:** I couldn't find this file in Drive. The after-school learnings above come from the BrainLIT Cohort 1 facilitator guide. Please share the Chitti analysis so its lessons can be added.
+- [ ] **Chitti details to verify:** Chitti doesn't publish prices or class-level pedagogy for Future School or Chitti Powered. Book a Chitti demo session to see how a class runs, what it costs, and whether AI is taught beyond coding.
 - [ ] **Age range:** our positioning targets ages 10–15; this school offer targets 8–12. Confirm that Tier 1 (ages 8–9) is in scope for the first schools.
 - [ ] **Board alignment:** confirm the latest CBSE circular on AI lessons from 2026–27 and Samacheer Kalvi requirements before claiming alignment in the pitch.
 - [ ] **Pricing per student per year** for each of the three models (timetable, club, bootcamp), and what the school pays vs what parents pay.
 - [ ] **Pilot:** choose 1–2 schools for a 10-day bootcamp to get the first Think-First pre/post numbers.
 - [ ] **Tool check:** confirm current terms and age rules for Teachable Machine, Machine Learning for Kids, MIT App Inventor and Canva for Education before the term starts.
 
-Sources: 7P Positioning Worksheet (BrainLIT), BrainLIT Enhanced Session Facilitator Guide (Cohort 1, May 2026), Rewire Kids Build With AI brochure (2026).
+Sources: 7P Positioning Worksheet (BrainLIT), BrainLIT Enhanced Session Facilitator Guide (Cohort 1, May 2026), Rewire Kids Build With AI brochure (2026), Chitti public pages (chitti.app/futureschool, chitti.app/powered and the Chitti blog) and LMES (lmes.in), seen through search results in October 2026.
